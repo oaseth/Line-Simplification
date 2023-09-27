@@ -1,0 +1,11 @@
+.settings
+bin
+.classpath
+.project
+Contours.csv
+model.lp
+src/*/DiGraph.java
+src/*/LevelBasedProjection.java
+src/*/Viewer.java
+src/*/Polyline.java
+src/module-info.java
