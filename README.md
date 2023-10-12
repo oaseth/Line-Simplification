@@ -7,3 +7,6 @@ This repository contains a program for simplifying linear rings or linestrings u
 
 # Output
 - A set of simplified linear rings or linestrings
+
+The output:
+![Simplified LinearRings](https://github.com/oaseth/Line-Simplification/blob/master/Output.png)
